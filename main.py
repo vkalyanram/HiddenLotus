@@ -1,5 +1,5 @@
-from util2 import *
-from step1 import *
+from utils import *
+from setup import *
 # eng_speech = text_to_speech(eng_text)
 # hindi_translation = translate_text(eng_text, "hi")
 # hindi_speech = text_to_speech(hindi_translation)
