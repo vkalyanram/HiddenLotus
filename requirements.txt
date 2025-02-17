@@ -1,0 +1,7 @@
+Flask==2.3.2
+openai==0.28.0
+twilio==8.3.0
+sqlite3== # Pre-installed with Python, no version needed
+requests==2.31.0
+gunicorn==21.2.0  # For deploying Flask app
+python-dotenv==1.0.0  # For managing environment variables
